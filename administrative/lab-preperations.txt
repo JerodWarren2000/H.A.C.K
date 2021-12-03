@@ -1,0 +1,73 @@
+General:
+     Username: HACKUser
+     Password: Pentesttheworld1!
+     Lab Locations: ~/LabX
+-----------------------------------------------------------------------------
+Lab 2 
+mkdir ~/Lab2
+mkdir ~/Lab4
+mkdir ~/Lab7
+useradd -m HACKUser
+passwd HACKUser
+usermod -a -G sudo HACKUser
+chsh -s /bin/bash HACKUser
+wget https://git.lysator.liu.se/catears/beemovie/-/raw/master/beemovie.txt?inline=false -O ~/Lab2/searchme.txt 
+echo Great Job on getting this far in the lab. Take a break if you need too! > /home/HACKUser/Lab2/deleteme.txt
+wget https://filesamples.com/samples/document/txt/sample3.txt -O ~/Documents/findme.txt
+
+-----------------------------------------------------------------------------
+Lab 4
+Unzip and move rockyou.txt - sudo gunzip /usr/share/wordlists/rockyou.txt.gz && cp /usr/share/wordlists/rockyou.txt ~/Lab4/rockyou.txt
+
+Put these hashes in ~/Lab4/hashes.txt
+2ac9cb7dc02b3c0083eb70898e549b63
+eb61eead90e3b899c6bcbe27ac581660
+958152288f2d2303ae045cffc43a02cd
+2c9341ca4cf3d87b9e4eb905d6a3ec45
+75b71aa6842e450f12aca00fdf54c51d
+
+
+Put this hash in ~/Lab4/extrahash.txt
+5497780b3a385d258bca4098e2e8ee40
+
+-----------------------------------------------------------------------------
+Lab 6
+cd Downloads/
+sudo apt install git                                 
+git clone https://github.com/micronucleus/micronucleus                     
+cd micronucleus/commandline/
+sudo apt install libusb-dev
+make
+cp micronucleus ~/.arduino15/packages/digistump/tools/micronucleus/2.0a4
+
+sudo cp 49-micronucleus.rules /etc/udev/rules.d/.
+
+git clone https://github.com/digistump/avr-dummy
+cd avr-dummy
+make
+cp avrdude ~/.arduino15/packages/digistump/tools/micronucleus/2.0a4/launcher
+
+wget https://downloads.arduino.cc/arduino-1.8.16-linuxaarch64.tar.xz 
+tar -xf arduino-1.8.16-linuxaarch64.tar.xz
+cd arduino-1.8.16-linuxaarch64
+chmod +x ./install.sh 
+sudo ./install.sh
+
+
+-----------------------------------------------------------------------------
+Lab 7 
+Install Steghide: sudo apt-get install steghide  
+Install G-edit: sudo apt-get update && sudo apt-get install gedit
+Add kali-linux.jpg to /home/kali/Lab7: 
+wget  https://riskowner.com/wp-content/uploads/2020/08/kali-linux-1068x621.jpg -O ~/Lab7/Kali-linux.jpg
+Place exercise images in ~/Lab7/Exercise
+Mkdir ~/Lab7/Exercise
+wget https://i.imgur.com/QSdjz4A.jpeg  -O ~/Lab7/Exercise/Vegas.jpeg
+wget https://i.imgur.com/MRmEGXg.jpeg -O ~/Lab7/Exercise/Duck.jpeg
+wget https://i.imgur.com/Uv0r45f.jpg -O ~/Lab7/Exercise/Beach.jpg
+wget https://i.imgur.com/JLMKtQA.jpg -O ~/Lab7/Exercise/Forest.jpg
+wget https://i.imgur.com/0KiE9YR.jpg -O ~/Lab7/Exercise/Mall.jpg
+wget https://i.imgur.com/ER31SUo.jpg -O ~/Lab7/Exercise/Parrot.jpg
+wget https://i.imgur.com/PidXp3e.jpg -O ~/Lab7/Exercise/Mountain.jpg
+
+
