@@ -10,5 +10,5 @@ The High Availability Cybersecurity Kit is a low cost cybersecurity training kit
 - Carrying Case
 
 # Labs
-See the [lab contents] for a brief description of each lab.
+See the [lab contents](https://github.com/realblopez/H.A.C.K/blob/main/LabContents.md) for a brief description of each lab.
 
