@@ -8,3 +8,7 @@ The High Availability Cybersecurity Kit is a low cost cybersecurity training kit
 - DIY WiFi Pineapple and Antenna
 - DIY Dubber Ducky
 - Carrying Case
+
+# Labs
+See the [lab contents] for a brief description of each lab.
+
