@@ -5,7 +5,7 @@ The High Availability Cybersecurity Kit is a low cost cybersecurity training kit
 - Raspberry Pi 3b+, case, power supply, keyboard, and HDMI cable
 - SD Card
 - 3-pack USB Drives
-- DIY WiFi Pineapple and Antenna
+- DIY Wi-Fi Pineapple and Antenna
 - DIY Dubber Ducky
 - Carrying Case
 
