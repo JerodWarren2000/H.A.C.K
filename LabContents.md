@@ -3,7 +3,7 @@
 ## Table of Contents
 - [1 Intro to Raspberry Pi](#1-Intro-to-Raspberry-Pi)
 - [2 Intro to Linux](#2-Intro-to-Linux)
-- [3 DIY WiFi Pineapple](#3-DIY-WiFi-Pineapple)
+- [3 DIY Wi-Fi Pineapple](#3-DIY-Wi-Fi-Pineapple)
 - [4 Password Cracking](#4-Password-Cracking)
 - [5 Shodan](#5-Shodan)
 - [6 DIY Rubber Ducky](#6-DIY-Rubber-Ducky)
@@ -19,8 +19,8 @@ Show how to get started with setting up your Raspberry Pi and learn more about t
 ## 2 Intro to Linux
 Introduce you to the Linux Operating System and give you an overview of where things are located and what applications are included with Kali Linux regarding cybersecurity and networking.
 
-## 3 DIY WiFi Pineapple
-Construct a DIY wifi pineapple for wireless security/hacking using a GL.iNet GL-AR150. Teach people how a wireless attack works and how to use tools to perform a wireless attack as well as how to spoof an IP address.
+## 3 DIY Wi-Fi Pineapple
+Construct a DIY Wi-Fi pineapple for wireless security/hacking using a GL.iNet GL-AR150. Teach people how a wireless attack works and how to use tools to perform a wireless attack as well as how to spoof an IP address.
 
 ## 4 Password Cracking
 Show students how easy it is to break an MD5 Hash using Rockyou. Alongside this, we want to scare students into changing their password HaveIBeenPwned and how to create a good password with https://howsecureismypassword.net/
