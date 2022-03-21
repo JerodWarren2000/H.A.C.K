@@ -1,5 +1,5 @@
 sudo apt-get update
-wget https://downloads.arduino.cc/arduino-1.8.19-linuxarm.tar.xz -O /home/kali/arduino-1.8.19.tar.xz
+wget https://downloads.arduino.cc/arduino-1.8.19-linuxarm.tar.xz -O /home/kali/arduino-1.8.19-linuxarm.tar.xz
 sudo tar -xf /home/kali/arduino-1.8.19-linuxarm.tar.xz
 sudo /home/kali/arduino-1.8.19/install.sh
 sudo apt install git                                 
