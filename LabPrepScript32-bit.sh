@@ -20,7 +20,7 @@
 # Make sure user runs as root
 
 # This installs the primary 64-bit lab info 
-sudo wget https://raw.githubusercontent.com/JerodWarren2000/H.A.C.K/main/LabPrepScript.sh -O /home/Kali/LabPrepScript.sh
+sudo wget https://raw.githubusercontent.com/JerodWarren2000/H.A.C.K/main/LabPrepScript.sh -O /home/kali/LabPrepScript.sh
 sudo chmod +x /home/Kali/LabPrepScript.sh
 sudo ./home/Kali/LabPrepScript.sh
 
