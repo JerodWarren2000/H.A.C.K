@@ -25,7 +25,7 @@ sudo chmod +x /home/kali/LabPrepScript.sh
 sudo /home/kali/LabPrepScript.sh
 
 # Here begins the 32-bit exclusive tool install
-mkdir /home/Kali/Lab6
+sudo mkdir /home/HACKUser/Lab6
 sudo wget https://raw.githubusercontent.com/JerodWarren2000/H.A.C.K/main/lab6-rubberducky/ArduinoInstallScript.sh -O /home/HACKUser/Lab6/ArduinoInstallScript.sh
 sudo chmod +x /home/HACKUser/Lab6/ArduinoInstallScript.sh
 sudo wget https://raw.githubusercontent.com/JerodWarren2000/H.A.C.K/main/lab6-rubberducky/AttinyPatchScript.sh -O /home/HACKUser/Lab6/AttinyPatchScript.sh
