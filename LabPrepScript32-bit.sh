@@ -22,7 +22,7 @@
 # This installs the primary 64-bit lab info 
 sudo wget https://raw.githubusercontent.com/JerodWarren2000/H.A.C.K/main/LabPrepScript.sh -O /home/kali/LabPrepScript.sh
 sudo chmod +x /home/kali/LabPrepScript.sh
-sudo ./home/kali/LabPrepScript.sh
+sudo /home/kali/LabPrepScript.sh
 
 # Here begins the 32-bit exclusive tool install
 mkdir /home/Kali/Lab6
