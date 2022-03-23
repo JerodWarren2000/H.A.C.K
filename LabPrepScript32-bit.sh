@@ -31,4 +31,4 @@ sudo chmod +x /home/HACKUser/Lab6/ArduinoInstallScript.sh
 sudo wget https://raw.githubusercontent.com/JerodWarren2000/H.A.C.K/main/lab6-rubberducky/AttinyPatchScript.sh -O /home/HACKUser/Lab6/AttinyPatchScript.sh
 sudo chmod +x /home/HACKUser/Lab6/AttinyPatchScript.sh
 sudo wget https://github.com/JerodWarren2000/H.A.C.K/blob/main/lab6-rubberducky/BoardManager.txt -O /home/HACKUser/Lab6/BoardManager.txt 
-sudo wget https://github.com/JerodWarren2000/H.A.C.K/blob/main/lab6-rubberducky/RickRollLinux.ino -O RickRollLinux.ino
+sudo wget https://github.com/JerodWarren2000/H.A.C.K/blob/main/lab6-rubberducky/RickRollLinux.ino -O /home/HACKUser/Lab6/RickRollLinux.ino
