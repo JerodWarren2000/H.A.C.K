@@ -12,5 +12,5 @@ The High Availability Cybersecurity Kit is a low-cost cybersecurity training kit
 See the [parts list] (https://github.com/JerodWarren2000/H.A.C.K/blob/main/partslist.md) if you would like to see what parts were used to assemble the kit.
 
 # Labs
-See the [lab contents](https://github.com/realblopez/H.A.C.K/blob/main/LabContents.md) for a brief description of each lab.
+See the [lab contents] (https://github.com/realblopez/H.A.C.K/blob/main/LabContents.md) for a brief description of each lab.
 
