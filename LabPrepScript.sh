@@ -46,7 +46,7 @@ echo 5497780b3a385d258bca4098e2e8ee40 > /home/HACKUser/Lab4/extrahash.txt
 # Lab 7 Installation
 sudo apt-get install steghide  
 sudo apt-get update && sudo apt-get install gedit
-wget  https://riskowner.com/wp-content/uploads/2020/08/kali-linux-1068x621.jpg -O /home/HACKUser/Lab7/Kali-linux.jpg
+wget  https://riskowner.com/wp-content/uploads/2020/08/kali-linux-1068x621.jpg -O /home/HACKUser/Lab7/kali-linux.jpg
 mkdir /home/HACKUser/Lab7/Exercise
 wget https://github.com/JerodWarren2000/H.A.C.K/raw/main/lab7-prep/Vegas.jpg   -O /home/HACKUser/Lab7/Exercise/Vegas.jpeg
 wget https://github.com/JerodWarren2000/H.A.C.K/raw/main/lab7-prep/Duck.jpg  -O /home/HACKUser/Lab7/Exercise/Duck.jpeg
